@@ -30,9 +30,13 @@ Forecasting consists of hybrid model of machine learning(Random Forest) and time
 
 ![Logo](images/2.JPG)
 
-## main.py
-This script is for creating server for data visualization. This script will take original data from database and create different interactive visulaization. This app has been deployed in Heroku and can be accessed from here: 
-[Go to dashboard](https://dashhamzah.herokuapp.com/)
+## Forecasting outputs
+Forecasting out can give average forecasted price in different regions of India with graphical represenatations.
+Other output will be prediction of price.
+
+![Logo](images/3.JPG)
+![Logo](images/4.JPG)
+
 
 ## Energy indicators
 Following Energy Indicators has been used for this project:
