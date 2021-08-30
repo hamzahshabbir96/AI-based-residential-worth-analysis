@@ -23,7 +23,7 @@ This project was part of All India PropTech Hackathon by NEC & Mitsubishi in whi
 ![Logo](images/1.JPG)
 
 
-
+![Logo](images/ss3.png)
 
 ## Forecasting method
 Forecasting consists of hybrid model of machine learning(Random Forest) and time seris forecasting (AutoRegressive Integrated Moving Average). This model will estimate price in future considering past trend and some macro features.
@@ -46,7 +46,7 @@ Other output will be prediction of price.
 ![Logo](images/7.JPG)
 ![Logo](images/8.JPG)
 ![Logo](images/9.JPG)
-![Logo](images/10.jpg)
+
 
 
 ## Authors
@@ -61,7 +61,6 @@ Other output will be prediction of price.
  - [Mitsubishi Corporation India](https://www.mitsubishicorp.com/)
 
 
-
   
 ## Feedback
 
@@ -72,20 +71,4 @@ If you have any feedback, please reach out to us at hamzahshabbir7@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
 
   
-## FAQ
 
-#### 1. What this project is about?
-
-Idea of this project is to implement time series model to forecast different energy parameter of the world for example what percent of ppulation will be able to access electricity in future. Time series model includes famous Autoregressive integrated moving average model.
-#### 2. Is there any dashboard or visualization to get glimpse of data? 
-
-
-Yes this app has been deployed for visualization. It can be followed from here : [Go to dashboard website](https://dashhamzah.herokuapp.com/)
-
-#### 3. Does visualization part include forecasted database?
-
-No Visualization only includes data from World databank(original data). Since accuracy of ARIMA model depends on lot of factors such as choosing AR and MA parameter. It has to be manually computed and to avoid wrong interpretations of forecasted data, it was not visually presented.
-
-#### 3. Can I deploy your code?
-
-If you are really interested in this project then you can collab with me and we can furthur improve model. You can reach me by my email hamzahshabbir7@gmail.com or [linkedIn](https://www.linkedin.com/in/hamzah-shabbir-108765a5/). 
