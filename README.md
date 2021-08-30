@@ -114,6 +114,7 @@ If you have any feedback, please reach out to us at hamzahshabbir7@gmail.com
 Idea of this project is to implement time series model to forecast different energy parameter of the world for example what percent of ppulation will be able to access electricity in future. Time series model includes famous Autoregressive integrated moving average model.
 #### 2. Is there any dashboard or visualization to get glimpse of data? 
 
+
 Yes this app has been deployed for visualization. It can be followed from here : [Go to dashboard website](https://dashhamzah.herokuapp.com/)
 
 #### 3. Does visualization part include forecasted database?
