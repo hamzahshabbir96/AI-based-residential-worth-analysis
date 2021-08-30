@@ -25,8 +25,10 @@ This project was part of All India PropTech Hackathon by NEC & Mitsubishi in whi
 
 
 
-## backend.py
-This script will implement forecasting model for all countries and will forecast result till year as given by input.
+## Forecasting method
+Forecasting consists of hybrid model of machine learning(Random Forest) and time seris forecasting (AutoRegressive Integrated Moving Average). This model will estimate price in future considering past trend and some macro features.
+
+![Logo](images/2.JPG)
 
 ## main.py
 This script is for creating server for data visualization. This script will take original data from database and create different interactive visulaization. This app has been deployed in Heroku and can be accessed from here: 
