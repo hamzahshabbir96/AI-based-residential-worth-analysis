@@ -1,5 +1,5 @@
 
-![Logo](images/title.jpg)
+![Logo](images/title.JPG)
 
     
 # AI Based Residential Price Analysis
@@ -20,7 +20,7 @@ This project was part of All India PropTech Hackathon by NEC & Mitsubishi in whi
 * Environmental scale (can be used to attract buyer)
 * Social Scale (can be used to attract buyer)
 
-![Logo](images/1.jpg)
+![Logo](images/1.JPG)
 
 
 
