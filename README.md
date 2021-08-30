@@ -38,27 +38,17 @@ Other output will be prediction of price.
 ![Logo](images/4.JPG)
 
 
-## Energy indicators
-Following Energy Indicators has been used for this project:
-* Access to Clean Fuels and Technologies for cooking (% of total population)
-* Access to electricity (% of rural population with access)
-* Access to electricity (% of total population)
-* Access to electricity (% of urban population with access)
-* Energy intensity level of primary energy (MJ/2011 USD PPP)
-* Renewable electricity output (GWh)
-* Renewable electricity share of total electricity output (%)
-* Renewable energy consumption (TJ)
-* Renewable energy share of TFEC (%)
-* Total electricity output (GWh)
-* Total final energy consumption (TFEC) (TJ)
+## Neural Network model
+![Logo](images/5.JPG)
 
-## Data
-Data has been collected from World bank open source databse.
-## Optimizations
+## Screenshots
+![Logo](images/6.JPG)
+![Logo](images/7.JPG)
+![Logo](images/8.JPG)
+![Logo](images/9.JPG)
+![Logo](images/10.jpg)
 
-Time Series model that has been used in this project has been optimzed based on Akaike information criterion(AIC) and Bayesian information criterion(BIC) score.
 
-  
 ## Authors
 
 - [@hamzahshabbir](https://github.com/hamzahshabbir96)
@@ -66,42 +56,11 @@ Time Series model that has been used in this project has been optimzed based on 
   
 ## Acknowledgements
 
- - [World Bank Database](https://www.worldbank.org/en/home)
- - [Bokeh dashboard](https://docs.bokeh.org/en/latest/index.html)
- - [Heroku Deployment](https://www.heroku.com/)
-
-## Running the app locally
+ - [hacker earth](hackerearth.com)
+ - [NEC Corporation India Private Limited](https://in.nec.com/)
+ - [Mitsubishi Corporation India](https://www.mitsubishicorp.com/)
 
 
-First create a virtual environment with conda or venv inside a temp folder, then activate it.
-
-
-
-```bash
-virtualenv 
-Machine-learning-forecasting-using-SVM-venv
-
-# Windows
-ARIMA-model-for-frecasting-of-energy-venv\Scripts\activate
-# Or Linux
-ARIMA-model-for-frecasting-of-energy-venv/bin/activate
-
-```
-Clone the git repo, then install the requirements with pip
-```bash
-git clone https://github.com/hamzahshabbir96/ARIMA-model-for-frecasting-of-energy.git
-pip install -r requirements.txt
-```
-Run the app and follow local host 
-```bash
-python index.py
-```
-  
-## Screenshots
-
-![App Screenshot](pictures/Capture.PNG)
-![App Screenshot](pictures/sc.PNG)
-![App Screenshot](pictures/sc1.PNG)
 
   
 ## Feedback
